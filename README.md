@@ -1,20 +1,20 @@
-# Project Name
-project description
+# Progressive Web App
+This project was built to as a learning experience to understand the power of progressive web apps
 
 ## Functionality
-lorem
+tbc
 
 ## Status
-lorem
+Complete
 
 ## Tech
-lorem
+React | JavaScript | HTML | CSS
 
 ## Bugs
-lorem
+None
 
 ## How To Use
-lorem
+tbc
 
 ## Plans for the future
-lorem
+tbc
